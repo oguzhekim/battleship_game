@@ -1,1 +1,2 @@
-# battleship_game
+# Battleships Game
+Classical battleships game in command-line.
